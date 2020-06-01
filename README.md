@@ -1,16 +1,11 @@
 # strapipet
 
-A new Flutter project.
+Strapi for mobile project. If you want more details, look at [my channel ](https://www.youtube.com/channel/UCdUaAKTLJrPZFStzEJnpQAg).
 
-## Getting Started
+# Mobile
 
-This project is a starting point for a Flutter application.
+![Iphone strapi ](https://github.com/VB10/Strapi-Mobile/blob/master/.github/Screen%20Shot%202020-06-01%20at%2019.12.09.png?raw=true)
 
-A few resources to get you started if this is your first Flutter project:
+# Dash Board
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Strapi dashboard](https://github.com/VB10/Strapi-Mobile/blob/master/.github/Screen%20Shot%202020-06-01%20at%2019.10.33.png?raw=true)
